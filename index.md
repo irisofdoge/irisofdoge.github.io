@@ -1,1 +1,1 @@
-<h1> The Book of Doge </h2>
+<h2> The Book of Doge </h2>
